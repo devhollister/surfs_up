@@ -15,7 +15,7 @@ points taken from the analysis are as follows:
 
 Summary statistics for the temperatures of both months are shown below:
 
-![](/resources/june_temps) ![](/resources/dec_temps)  
+![](resources/june_temps.png) ![](/resources/dec_temps.png)  
 
 ## Summary
 
